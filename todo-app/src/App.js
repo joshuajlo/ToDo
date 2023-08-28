@@ -7,7 +7,7 @@ function App() {
 
 	const handleAddTask = () => {
 		if (newTask.trim() !== '') {
-			fetch('https://jlctu82hwc.execute-api.us-west-2.amazonaws.com/default',{
+			fetch(//insert link to api,{
 				method: 'POST',
 				headers:{
 					'content-type':'application/json'
