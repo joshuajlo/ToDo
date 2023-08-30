@@ -1,6 +1,6 @@
 # Serverless To-Do List Project
 
-This project implements a serverless to-do list application using [your chosen technology stack]. Users can add, edit, and remove tasks on their to-do list. The project uses [mention technologies and libraries] and is designed to be scalable and deployable in a serverless environment.
+This project implements a serverless to-do list application using React. Users can add, edit, and remove tasks on their to-do list. The project is designed to be scalable and deployable in a serverless environment.
 
 ## Table of Contents
 
