@@ -27,7 +27,7 @@ function App() {
 
 	const handleAddTask = () => {
 		if (newTask.trim() !== '') {
-			fetch(//insert link to api,{
+			fetch('insert link to api',{
 				method: 'POST',
 				headers:{
 					'content-type':'application/json'
