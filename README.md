@@ -32,5 +32,3 @@ This project implements a serverless to-do list application using React. Users c
 5. [Run the frontend locally](#)
 
 ---
-
-Feel free to customize this template according to your project's details. Make sure to include all relevant information, such as setup instructions, usage guidelines, and deployment steps. A well-written README.md will help users understand and engage with your serverless to-do list project effectively.
