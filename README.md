@@ -23,13 +23,6 @@ This project implements a serverless to-do list application using React. Users c
 - Edit the text of an existing task
 - Remove a task from the list
 
-## Getting Started
-
-### Prerequisites
-
-- [List prerequisites here, e.g., Node.js, AWS account]
-- [Any configuration/setup steps that need to be done]
-
 ### Installation
 
 1. [Clone the repository](#)
